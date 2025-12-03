@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb.svg">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring.svg">
   <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="springsecurity.svg">
+  <img src="https://img.shields.io/badge/SpringJPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="springJPA.svg">
+  <img src="https://img.shields.io/badge/Querydsl-4169E1?style=for-the-badge&logo=spring&logoColor=white" alt="querydsl.svg">
 </div>
 
 ### infra
@@ -24,6 +26,8 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare.svg">
   <img src="https://img.shields.io/badge/NaverCloud-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="navercloud.svg">
   <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="apachekafka.svg">
+  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase.svg">
+  <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="springCloud.svg">
 </div>
 
 ### Frontend
