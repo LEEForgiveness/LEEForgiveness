@@ -39,7 +39,7 @@
 - 2023.03 ICT 멘토링 프로보노 시각 장애인을 위한 키오스크(동상) - https://github.com/2023-ICT-Kiosks
 - 2024.03 스파로스 아카데미 SSG.COM 클론 프로젝트 - https://github.com/2-Nocaffeine
 - 2024.05 스파로스 아카데미 MeetPlus 프로젝트 - https://github.com/3-RACEHORSE
-- 2025.02 한국해양대 인공지능 공학부 학내 동아리 사이트 프로젝트 -
+- 2025.02 한국해양대 인공지능 공학부 학내 동아리 사이트 프로젝트 - https://github.com/Lab-Semtle/V1.0-Semtle-Web-Server
 
 # 교육기관
 - 2024.02 한국해양대 졸업 ⚓️
