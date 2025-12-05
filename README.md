@@ -4,7 +4,7 @@
 <div>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript.svg">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs.svg">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express.svg">
+  <img src="https://img.shields.io/badge/Express.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="express.svg">
   <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="jwt.svg">
   <img src="https://img.shields.io/badge/Bullmq-DB0A40?style=for-the-badge&logo=redbull" alt="bullmq.svg">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma.svg">
